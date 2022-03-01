@@ -7,6 +7,7 @@ setup(
     long_description=open("README.md", encoding="utf-8").read(),
     author="Gregory Petukhov",
     author_email="lorien@lorien.name",
+    url="https://github.com/lorien/weblib",
     long_description_content_type="text/markdown",
     install_requires=[
         "pytils",
@@ -20,9 +21,11 @@ setup(
             "lxml",
         ],
     },
+    keywords="web html encoding text",
     packages=find_packages(exclude=["tests"]),
     license="MIT",
     classifiers=[
+        "Development Status :: 4 - Beta",
         "Programming Language :: Python",
         "Programming Language :: Python :: 3.7",
         "Programming Language :: Python :: 3.8",
