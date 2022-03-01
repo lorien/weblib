@@ -1,14 +1,7 @@
-Weblib
-======
+# Weblib Package
 
-.. image:: https://travis-ci.org/lorien/weblib.png?branch=master
-    :target: https://travis-ci.org/lorien/weblib
-
-.. image:: https://coveralls.io/repos/lorien/weblib/badge.svg?branch=master
-    :target: https://coveralls.io/r/lorien/weblib?branch=master
-
-.. image:: https://readthedocs.org/projects/weblib/badge/?version=latest
-    :target: http://weblib.readthedocs.org/en/latest/
+![Test Status](https://github.com/lorien/weblib/workflows/pytest/badge.svg)
+[![Coverage Status](https://coveralls.io/repos/github/lorien/weblib/badge.svg)](https://coveralls.io/github/lorien/weblib)
 
 
 Weblib provides tools to solve typical tasks in web scraping:
@@ -25,18 +18,16 @@ Weblib provides tools to solve typical tasks in web scraping:
 * operations with files and directories
 
 
-Installation
-============
+## Installation
 
 Run:
 
-.. code:: bash
+```shell
 
     pip install -U weblib
 
 
-Documentation
-=============
+## Documentation
 
 Docs are incomplete. Most docs are auto-generated from modules/methods docstrings.
 Check out docs here http://weblib.readthedocs.org/en/latest/

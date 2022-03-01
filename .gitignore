@@ -14,7 +14,7 @@
 /.coverage
 /.env*
 /dist/
-/docs/build/
+/docs/_build/
 /coverage.xml
 /.cache/
 /.pytest_cache/
