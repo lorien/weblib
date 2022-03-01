@@ -25,9 +25,11 @@ Run:
 ```shell
 
     pip install -U weblib
+```
 
 
 ## Documentation
 
-Docs are incomplete. Most docs are auto-generated from modules/methods docstrings.
-Check out docs here http://weblib.readthedocs.org/en/latest/
+Docs are incomplete. Most of documentation is auto-generated from modules/methods docstrings.
+
+Check out docs here [weblib.readthedocs.org](http://weblib.readthedocs.org/en/latest/)
