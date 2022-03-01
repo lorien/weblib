@@ -1,6 +1,6 @@
 # Weblib Package
 
-![Test Status](https://github.com/lorien/weblib/workflows/pytest/badge.svg)
+![Test Status](https://github.com/lorien/weblib/workflows/test/badge.svg)
 [![Coverage Status](https://coveralls.io/repos/github/lorien/weblib/badge.svg)](https://coveralls.io/github/lorien/weblib)
 
 
